@@ -58,5 +58,12 @@ python eval.py --frm model.pth --single
 
 If you use this code, please cite: 
 
-
+```
+@inproceedings{li2020content,
+  title={Content-Consistent Matching for Domain Adaptive Semantic Segmentation},
+  author={Guangrui Li, Guoliang Kang, Wu Liu, Yunchao Wei, Yi Yang},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2020}
+}
+```
 
